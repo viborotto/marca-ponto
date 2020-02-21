@@ -1,7 +1,7 @@
 # Projeto API Marca Ponto
 
 ## A documentação dos endpoints da API foi criada com springdoc-openapi (Swagger-UI) e está disponível no link abaixo: 
-<>
+<http://localhost:3000/marca-ponto/swagger-ui.html>
 *É necessário subir a aplicação primeiro para acessar a documentação da API*
 
 ## Descrição Básica da API marca-ponto
@@ -64,10 +64,4 @@ Restra a marcação de um novo ponto
 }
 ```
 
-      
-      
- # Teste Sistema de Ponto
 
-Swagger para visualização e testes da API: http://<span></span>localhost:[port]/swagger-ui.html
-
-Na configuração padrão da aplicação, caso a porta não seja alterada no application.properties: [http://localhost:9876/swagger-ui.html](http://localhost:9876/swagger-ui.html)
