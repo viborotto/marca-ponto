@@ -5,7 +5,5 @@
 ##
 
 
-### Para maiores informações sobre a library springdoc-openapi, você pode acessar:
-### GitHub - springdoc/springdoc-openapi: Library for OpenAPI 3 with spring-boot
-### https://github.com/springdoc/springdoc-openapi
+### Para maiores informações sobre a library do springdoc-openapi, você pode acessar o link:<https://github.com/springdoc/springdoc-openapi>
 
