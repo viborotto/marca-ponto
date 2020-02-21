@@ -115,11 +115,4 @@ public class UsuarioControllerTest {
                 .andExpect(status().isBadRequest());
     }
 
-    @Test
-    public void deleteUsuarioInexist() throws Exception {
-        mockMvc.perform(delete("/api/usuarios" + 932181))
-                .andDo(print())
-                .andExpect(status().isBadRequest());
-    }
-
 }
