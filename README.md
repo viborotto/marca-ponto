@@ -58,7 +58,7 @@ Restra a marcação de um novo ponto
 **Exemplo do Request Body**
 ```json
 {
-  usuario: {
+  "usuario": {
     "id": 1
            }
 }
